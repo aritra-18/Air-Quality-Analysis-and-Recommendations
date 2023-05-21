@@ -12,7 +12,7 @@ This repository provides an in-depth analysis of air quality data collected from
 
 - Resource Allocation: Funding should be directed towards conducting thorough research in regions with unhealthy air quality levels. By understanding the root causes, stakeholders can take appropriate measures to improve air quality and safeguard public health.
 - Identifying Problematic Regions: The analysis highlights the site at West Phoenix as having worse air quality compared to other sites. Additional resources should be allocated to further investigate and address the air quality issues in this specific region.
-- 
+
 **Conclusion:** This repository presents a comprehensive analysis of air quality data, emphasizing the significance of carbon monoxide levels and AQI values. Stakeholders are encouraged to review the findings, allocate resources effectively, and prioritize actions to enhance air quality in regions with unhealthy levels. With collective efforts, we can work towards ensuring cleaner and healthier environments for everyone.
  
 
